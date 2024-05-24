@@ -11,6 +11,7 @@ b.  输入： npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 c.  命令行输入  cnpm install(推荐)  或  npm install
 
+后端接口：https://github.com/Lanborn/PureProjectBack
 
 3. 配置后端地址
 
@@ -20,6 +21,6 @@ b.run serve 运行服务
 
 c.http://localhost:8045/ 访问应用
 
-说明：有疑问可到服务端统一提问。
+
 
 
